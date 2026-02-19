@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Recette
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ajouter etudiant</title>
+</head>
+<body>
+    <form asp-action="AddRecette" method="post">
+        <div>
+            <label asp-for="Title"></label>
+            <input asp-for="Title" />
+            <span asp-validation-for="Title"></span>
+        </div>
+        <div>
+            <label asp-for="Category"></label>
+            <input asp-for="Category" />
+            <span asp-validation-for="Category"></span>
+        </div>
+        <div>
+            <label asp-for="Description"></label>
+            <input asp-for="Description" />
+            <span asp-validation-for="Description"></span>
+        </div>
+        <div>
+            <label asp-for="Instructions"></label>
+            <input asp-for="Instructions" "/>
+            <span asp-validation-for="Instructions"></span>
+        </div>
+        <div>
+            <label asp-for="Author"></label>
+            <input asp-for="Author" "/>
+            <span asp-validation-for="Author"></span>
+        </div>
+      
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+</body>
+</html>

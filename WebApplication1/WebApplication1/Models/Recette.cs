@@ -34,18 +34,18 @@ namespace WebApplication1.Models
         [StringLength(255)]
         public string Author { get; set; }
 
-        public DateTime Created_at { get; set; }
+        public DateTime CreatedAt { get; set; }
 
         [Required]
         [NotNull]
-        public DateTime Update { get; set; }
+        public DateTime UpdateAt { get; set; }
 
 
         //----
 
         public Recette() { }
 
-        public Recette (int id, string title, string url,  string category, string description, string author, DateTime created_at, DateTime update_at)
+        public Recette (int id, string title, string url,  string category, string description, string author, DateTime createdAt, DateTime update_at)
         {
             Id = id;
             Title = title;
@@ -53,8 +53,8 @@ namespace WebApplication1.Models
             Category = category;
             Description = description;
             Author = author;
-            Created_at = created_at;
-            Update = update_at;
+            CreatedAt = createdAt;
+            UpdateAt = update_at;
 
         }
 

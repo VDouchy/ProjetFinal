@@ -8,12 +8,23 @@ namespace WebApplication1.Models
 
         [Key]
         public int Id { get; set; }
+
+        [Required]
         [NotNull]
-        public int Recette_Id { get; set; }
+        public int RecetteId { get; set; }
+
+        public Recette? Recette { get; set; }
+
+        [Required]
         [NotNull]
-        public int Ingredient_Id {  get; set; }
+        public int IngredientId {  get; set; }
+        public Ingredient? Ingredient { get; set; }
+
         [NotNull]
         public int Quantity { get; set; }
+
+        
+
 
         //----
 
@@ -22,14 +33,14 @@ namespace WebApplication1.Models
         public Recette_Ingredient(int id, int recette_id, int ingredient_id, int quantity) 
         { 
             Id = id;
-            Recette_Id = recette_id;
-            Ingredient_Id = ingredient_id;
+            RecetteId = recette_id;
+            IngredientId = ingredient_id;
             Quantity = quantity;
         }
 
         public override string ToString()
         {
-            return $"Id: {Id}, Recette_Id: {Recette_Id}, Ingredient_id: {Ingredient_Id},Quantité: {Quantity}";
+            return $"Id: {Id}, Recette_Id: {RecetteId}, Ingredient_id: {IngredientId},Quantité: {Quantity}";
         }
 
 

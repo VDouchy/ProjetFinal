@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Recette>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Afficher recettes</title>
+</head>
+<body>
+    <h2>Liste des recettes</h2>
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <p>Recette n°@i</p>
+        <ul>
+            <li>Titre: @Model[i].Title</li>
+            <li>Category: @Model[i].Category</li>
+            <li>Description: @Model[i].Description</li>
+            <li>Instructions : @Model[i].Instructions</li
+            <li>Auteur : @Model[i].Author</li>
+            <li>Date de création : @Model[i].CreatedAt</li>
+            <li>Date de mise à jour : @Model[i].UpdateAt</li>
+
+        </ul>
+    }
+</body>
+</html>

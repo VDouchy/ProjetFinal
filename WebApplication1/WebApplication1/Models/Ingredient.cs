@@ -18,18 +18,18 @@ namespace WebApplication1.Models
         [NotNull]
         public string Category {get;set;}
 
-        public DateTime Created_at { get; set; }
+        public DateTime CreatedAt { get; set; }
 
 
         //----
         public Ingredient() { }
 
-        public Ingredient(int id, string name, string category, DateTime Create_at)
+        public Ingredient(int id, string name, string category, DateTime createAt)
         {
             Id = id;
             Name = name;
             Category = category;
-            Created_at = Create_at;
+            CreatedAt = createAt;
         }
 
 

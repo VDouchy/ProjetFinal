@@ -4,21 +4,16 @@ namespace WebApplication1.Interfaces
 {
     public interface IRecetteRepository
     {
-
         public List<Recette> GetAllRecette();
 
-        public void GetDetailRecette(int id);
+        public string GetDetailRecette(int id);
 
         public Recette AddRecette(Recette rec);
 
-        public Recette ModifyRecette(int id);
+        public Recette ModifyRecette(Recette r);
 
-        public Recette DeleteRecette(int id);
-
-
-
-
-
-
+        
+        public void DeleteRecette(Recette r);
+        public Recette GetRecetteById(int id);
     }
 }
