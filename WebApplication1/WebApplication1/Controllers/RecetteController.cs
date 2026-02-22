@@ -38,7 +38,7 @@ namespace WebApplication1.Controllers
 
 
 
-        public IActionResult GetAllRecette(Recette r)
+        public IActionResult GetAllRecette()
         {
             return View(_recetteService.GetAllRecette());
         }
@@ -50,14 +50,36 @@ namespace WebApplication1.Controllers
         }
 
 
-        /*
-        public IActionResult ModifyRecette(Recette r) 
+        [HttpGet]
+        public IActionResult ModifyRecette(int id) 
         {
-            
+            Recette recette = _recetteService.GetRecetteById(id);
+            if (recette == null) return NotFound();
 
-        }*/
+            return View(recette);
+        }
 
+        [HttpPost]
+        public IActionResult ModifyRecette(Recette r)
+        {
+            if (ModelState.IsValid) 
+            {
+                return RedirectToAction("GetAllRecette");
+            }
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult GetDetail(int id)
+        {
+            Recette r = _recetteService.GetRecetteById(id);
+            if (r == null) 
+            {
+                return NotFound();
+            }
+            return View(r);
+        }
 
 
 

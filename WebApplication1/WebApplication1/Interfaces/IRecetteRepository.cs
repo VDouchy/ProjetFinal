@@ -6,7 +6,7 @@ namespace WebApplication1.Interfaces
     {
         public List<Recette> GetAllRecette();
 
-        public string GetDetailRecette(int id);
+        public void GetDetailRecette(int id);
 
         public Recette AddRecette(Recette rec);
 

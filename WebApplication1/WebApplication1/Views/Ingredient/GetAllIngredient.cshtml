@@ -20,17 +20,17 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (Ingredient item in Model)
+        @foreach (Ingredient ing in Model)
         {
             <tr>
-                <td>@item.Id</td>
-                <td>@item.Name</td>
-                <td>@item.Category</td>
-                <td>@item.CreatedAt.ToShortDateString()</td>
+                <td>@ing.Id</td>
+                <td>@ing.Name</td>
+                <td>@ing.Category</td>
+                <td>@ing.CreatedAt.ToShortDateString()</td>
                 <td>
                     <a asp-controller="Ingredient" 
-                       asp-action="DeleteIngredient" 
-                       asp-route-id="@item.Id" 
+                       asp-action="DeleteIngredient"
+                       asp-route-id="@ing.Id"
                        class="btn btn-danger"
                        onclick="return confirm ('Voulez-vous supprimer l\'ingredient ');"> 
                        Supprimer 

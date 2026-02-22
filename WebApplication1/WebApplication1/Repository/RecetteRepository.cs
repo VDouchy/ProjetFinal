@@ -44,12 +44,12 @@ namespace WebApplication1.Repository
             return _context.Recette.ToList();
         }
 
-        public string GetDetailRecette(int id)
+        public void GetDetailRecette(int id)
         {
-            /*Recette r = _context.Recette.Where();
+            Recette r = GetRecetteById(id);
+
             _context.SaveChanges();
-            return r;*/
-            return "";
+            
         }
 
         public Recette ModifyRecette(Recette r)

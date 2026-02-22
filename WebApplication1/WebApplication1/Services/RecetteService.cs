@@ -32,9 +32,9 @@ namespace WebApplication1.Services
             
         }
 
-        public string GetDetailRecette(int id)
+        public void GetDetailRecette(int id)
         {
-            return _recetteRepository.GetDetailRecette(id);
+            _recetteRepository.GetDetailRecette(id);
             
         }
 
@@ -47,5 +47,6 @@ namespace WebApplication1.Services
         {
             return _recetteRepository.ModifyRecette( r);
         }
+
     }
 }
