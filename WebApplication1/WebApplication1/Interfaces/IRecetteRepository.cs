@@ -13,7 +13,7 @@ namespace WebApplication1.Interfaces
         public Recette ModifyRecette(Recette r);
 
         
-        public void DeleteRecette(Recette r);
+        public void DeleteRecette(int id);
         public Recette GetRecetteById(int id);
     }
 }

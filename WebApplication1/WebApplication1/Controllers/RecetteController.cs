@@ -19,10 +19,13 @@ namespace WebApplication1.Controllers
         [HttpPost]
         public IActionResult AddRecette(Recette r)
         {
+            r.CreatedAt = DateTime.Now;
+            r.UpdateAt = null;
             if (!ModelState.IsValid)
             {
                 return View("AddRecette", r);
             }
+            _recetteService.AddRecette(r);
             return RedirectToAction("GetAllRecette");
         }
 
@@ -33,9 +36,17 @@ namespace WebApplication1.Controllers
             return View(r);
         }
 
+
+
         public IActionResult GetAllRecette(Recette r)
         {
             return View(_recetteService.GetAllRecette());
+        }
+
+        public IActionResult DeleteRecette(int id)
+        {
+            _recetteService.DeleteRecette(id);
+            return RedirectToAction("GetAllRecette");
         }
 
 

@@ -18,9 +18,9 @@ namespace WebApplication1.Services
             return _ingredientRepository.AddIngredient(ing);
         }
 
-        public void DeleteIngredient(Ingredient i)
+        public void DeleteIngredient(int id)
         {
-            _ingredientRepository.DeleteIngredient(i);
+            _ingredientRepository.DeleteIngredient(id);
         }
 
         public List<Ingredient> GetAllIngredient()
@@ -28,9 +28,9 @@ namespace WebApplication1.Services
             return _ingredientRepository.GetAllIngredient();
         }
 
-        public Ingredient GetRecetteById(int id)
+        public Ingredient GetIngredientById(int id)
         {
-            throw new NotImplementedException();
+            return _ingredientRepository.GetIngredientById(id);
         }
     }
 }

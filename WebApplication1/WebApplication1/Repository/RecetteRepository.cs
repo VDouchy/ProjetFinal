@@ -23,10 +23,14 @@ namespace WebApplication1.Repository
             return rec;
         }
 
-        public void DeleteRecette(Recette r)
+        public void DeleteRecette(int id)
         {
-            _context.Recette.Remove(r);
-            _context.SaveChanges();
+            Recette recette = GetRecetteById(id);
+            if (recette != null)
+            {
+                _context.Recette.Remove(recette);
+                _context.SaveChanges();
+            }
         }
 
         public Recette GetRecetteById(int id)
@@ -50,6 +54,7 @@ namespace WebApplication1.Repository
 
         public Recette ModifyRecette(Recette r)
         {
+            Recette recetteAModifier = GetRecetteById(r.Id);
             _context.Recette.Update(r);
             _context.SaveChanges();
             return r;

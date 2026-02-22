@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Ingredient>
+
+
+
+<h2>Liste des ingrédients</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nom</th>
+            <th>Catégorie</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Ingredient item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Category</td>
+                <td>@item.CreatedAt.ToShortDateString()</td>
+                <td>
+                    <a asp-controller="Ingredient" 
+                       asp-action="DeleteIngredient" 
+                       asp-route-id="@item.Id" 
+                       class="btn btn-danger"
+                       onclick="return confirm ('Voulez-vous supprimer l\'ingredient ');"> 
+                       Supprimer 
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-controller="Ingredient" asp-action="AddIngredient" class="btn btn-success">
+        + Ajouter un ingrédient
+    </a>
+</p>

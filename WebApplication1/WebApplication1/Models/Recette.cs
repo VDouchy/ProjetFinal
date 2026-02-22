@@ -14,11 +14,6 @@ namespace WebApplication1.Models
         public string Title { get; set; }
 
         [Required]
-        [NotNull]
-
-        public string Url { get; set; }
-
-        [Required]
         [StringLength(255)]
         [NotNull]
         public string Category { get; set; }
@@ -36,28 +31,15 @@ namespace WebApplication1.Models
 
         public DateTime CreatedAt { get; set; }
 
-        [Required]
-        [NotNull]
-        public DateTime UpdateAt { get; set; }
+        
+        public DateTime? UpdateAt { get; set; }
 
 
         //----
 
         public Recette() { }
 
-        public Recette (int id, string title, string url,  string category, string description, string author, DateTime createdAt, DateTime update_at)
-        {
-            Id = id;
-            Title = title;
-            Url = url;
-            Category = category;
-            Description = description;
-            Author = author;
-            CreatedAt = createdAt;
-            UpdateAt = update_at;
-
-        }
-
+        
 
 
 

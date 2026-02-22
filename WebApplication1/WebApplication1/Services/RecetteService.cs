@@ -20,9 +20,9 @@ namespace WebApplication1.Services
 
 
 
-        public void DeleteRecette(Recette r)
+        public void DeleteRecette(int id)
         {
-            _recetteRepository.DeleteRecette(r);
+            _recetteRepository.DeleteRecette(id);
             
         }
 

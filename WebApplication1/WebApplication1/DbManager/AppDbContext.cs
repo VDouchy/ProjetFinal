@@ -12,5 +12,7 @@ namespace WebApplication1.DbManager
         public DbSet<Ingredient> Ingredient { get; set; }
 
         public DbSet<Recette> Recette { get; set; }
+
+        public DbSet<Recette_Ingredient> Recette_Ingredients { get; set; }
     }
 }

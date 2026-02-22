@@ -30,13 +30,7 @@ namespace WebApplication1.Models
 
         public Recette_Ingredient() { }
 
-        public Recette_Ingredient(int id, int recette_id, int ingredient_id, int quantity) 
-        { 
-            Id = id;
-            RecetteId = recette_id;
-            IngredientId = ingredient_id;
-            Quantity = quantity;
-        }
+        
 
         public override string ToString()
         {

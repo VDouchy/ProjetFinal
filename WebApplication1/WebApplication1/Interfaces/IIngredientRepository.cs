@@ -8,8 +8,8 @@ namespace WebApplication1.Interfaces
 
         public Ingredient AddIngredient(Ingredient ing);
 
-        public void DeleteIngredient(Ingredient i);
+        public void DeleteIngredient(int id);
 
-        public Ingredient GetRecetteById(int id);
+        public Ingredient GetIngredientById(int id);
     }
 }

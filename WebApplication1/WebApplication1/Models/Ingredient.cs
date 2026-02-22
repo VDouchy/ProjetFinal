@@ -10,11 +10,11 @@ namespace WebApplication1.Models
         [Key]
         public int Id { get; set; }
 
-        
+        [Required]
         [StringLength(100)]
         [NotNull]
         public string Name { get; set; }
-
+        [Required]
         [NotNull]
         public string Category {get;set;}
 
@@ -24,14 +24,7 @@ namespace WebApplication1.Models
         //----
         public Ingredient() { }
 
-        public Ingredient(int id, string name, string category, DateTime createAt)
-        {
-            Id = id;
-            Name = name;
-            Category = category;
-            CreatedAt = createAt;
-        }
-
+        
 
 
 
