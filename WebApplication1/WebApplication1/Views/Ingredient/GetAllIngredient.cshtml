@@ -12,7 +12,7 @@
 <table class="table table-hover">
     <thead>
         <tr>
-            <th>Id</th>
+            
             <th>Nom</th>
             <th>Catégorie</th>
             <th>Date</th>
@@ -23,7 +23,6 @@
         @foreach (Ingredient ing in Model)
         {
             <tr>
-                <td>@ing.Id</td>
                 <td>@ing.Name</td>
                 <td>@ing.Category</td>
                 <td>@ing.CreatedAt.ToShortDateString()</td>

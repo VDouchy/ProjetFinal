@@ -8,26 +8,40 @@
 
 @model Recette
 
-    <h1 class="Title-align-center">Recette : @Model.Title</h1>
+<h1 class="Title-align-center">Recette : @Model.Title</h1>
 <p><strong>Recette créee par @Model.Author</strong></p>
-
-    <p class="Center-and-flex">@Model.Description</p>
-    <p class="Center-and-flex">@Model.Instructions</p>
+<div class ="disBlock">
     <a asp-controller="Recette"
        asp-action="DeleteRecette"
-       
-       class="btn btn-danger"
+       asp-route-id=@Model.Id
+	   class="btn btn-danger"
        onclick="return confirm('Voulez-vous vraiment supprimer cette recette ?');">
         Supprimer
     </a>
     <a asp-controller="Recette"
-     asp-action="ModifyRecette"
-     asp-route-r=@Model
-     asp-route-id=@Model.Id
-       
+       asp-action="ModifyRecette"
+       asp-route-r=@Model
+       asp-route-id=@Model.Id
        class="btn btn-warning">
         Modifier
     </a>
+</div>
+<div>
+    <div>
+        <h1 class="Center-and-flex">Description de la recette:</h1>
+        <p class="Center-and-flex"> @Model.Description</p>
+
+    </div>
+    
+    <hr />
+    <h1 class="Center-and-flex">Instructions à suivre:</h1>
+    <p class="Center-and-flex">Instructions à suivre: @Model.Instructions</p>
+    <hr />
+    <p class="Center-and-flex">Détail: </p>
+    <p class="Center-and-flex">Créee par: @Model.Author </p>
+    <p class="Center-and-flex">Catégorie de la recette: @Model.Category </p>
+    <p class="Center-and-flex">Date de création: @Model.CreatedAt</p>
+</div>
     
 
 

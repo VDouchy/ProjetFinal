@@ -3,39 +3,55 @@
 *@
 @{
 }
-@model Recette
+@model RecetteDetailDto
 <div asp-validation-summary="All" class="text-danger"></div>
 
 
     <a asp-controller="Accueil" asp-action="Index">Retour à l'accueil</a>
     <form asp-action="AddRecette" method="post">
-        <div>
-            <label asp-for="Title"></label>
-            <input asp-for="Title"/>
-            <span asp-validation-for="Title"></span>
+    <div class=" Each-card">
+            <label asp-for="Recette.Title"></label>
+        <input asp-for="Recette.Title" />
+        <span asp-validation-for="Recette.Title"></span>
         </div>
-        <div>
-            <label asp-for="Category"></label>
-            <input asp-for="Category" />
-            <span asp-validation-for="Category"></span>
+    <div class=" Each-card">
+        <label asp-for="Recette.Category"></label>
+        <input asp-for="Recette.Category" />
+        <span asp-validation-for="Recette.Category"></span>
         </div>
-        <div>
-            <label asp-for="Description"></label>
-            
-            <input asp-for="Description" class=" SizedBox" />
-            <span asp-validation-for="Description"></span>
+    <div class=" Each-card">
+        <label asp-for="Recette.Description"></label>
+
+        <input asp-for="Recette.Description" class=" SizedBox" />
+        <span asp-validation-for="Recette.Description"></span>
         </div>
-        <div>
-            <label asp-for="Instructions"></label>
-            <input asp-for="Instructions" class=" SizedBox" />
-            <span asp-validation-for="Instructions"></span>
+    <div class=" Each-card">
+        <label asp-for="Recette.Instructions"></label>
+        <input asp-for="Recette.Instructions" />
+        <span asp-validation-for="Recette.Instructions"></span>
         </div>
-        <div>
-            <label asp-for="Author"></label>
-            <input asp-for="Author"/>
-            <span asp-validation-for="Author"></span>
+    <div class=" Each-card">
+        <label asp-for="Recette.Author"></label>
+        <input asp-for="Recette.Author" />
+        <span asp-validation-for="Recette.Author"></span>
         </div>
-    
+    <div class=" Each-card">
+        <select asp-for="Ingredients[0].Id">
+
+            @foreach(IngredientDto ingredient in Model.Ingredients)
+            {
+            <option value ="@ingredient.Ingredient.Id"> 
+                @ingredient.Ingredient.Name
+            </option>
+            }
+         
+                
+
+
+        </select>
+
+
+    </div>
 
         
       

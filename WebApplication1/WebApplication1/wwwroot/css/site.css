@@ -32,15 +32,23 @@ html {
     display: flex;
     flex-wrap: wrap;
     background-color: white;
- 
+    flex-direction: row;
+    gap: 1%;
 }
 
 .Each-card {
-    border-color: red;
     border: solid;
     border-radius: 20px;
-    border-color: yellowgreen;
-    background-color: yellow
+    border-color: black;
+    
+    background-color: #12994C;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    padding: 5px;
+    height: auto;
+    flex-grow: 1;
+    word-wrap: break-word;
 }
 .Title-align-center {
     display: flex;
@@ -51,8 +59,26 @@ html {
     display: flex;
     justify-content: center;
     
+    
 }
-.SizedBox {
-    width: 200px;
-    height: 100px;
+
+
+.disBlock {
+    display: flex;
+    justify-content: space-between
+}
+
+.Image{
+    width: 50px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    color: white;
+}
+.BackColor {
+    background-color: #99cc00;
 }

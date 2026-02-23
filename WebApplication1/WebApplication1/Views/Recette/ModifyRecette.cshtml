@@ -9,14 +9,14 @@
 
 <h2>Modification</h2>
 <div>
-    <p>coucou</p>
+    
     <strong>@Model.Title</strong>
     <p>@Model.Title</p>
     <p>@Model.Description</p>
     <p>@Model.Instructions</p>
 
 
-    <form asp-action="AddRecette" method="post">
+    <form asp-action="ModifyRecette" method="post">
         <div>
             <label asp-for="Title"></label>
             <input asp-for="Title" />
@@ -28,13 +28,13 @@
             <span asp-validation-for="Category"></span>
         </div>
         <div>
-            <label asp-for="Description"></label>
-            <input asp-for="Description" />
+            <label asp-for="Description" ></label>
+            <input asp-for="Description" class=" SizedBox" />
             <span asp-validation-for="Description"></span>
         </div>
         <div>
             <label asp-for="Instructions"></label>
-            <input asp-for="Instructions" />
+            <input asp-for="Instructions" class=" SizedBox" />
             <span asp-validation-for="Instructions"></span>
         </div>
         <div>
@@ -42,10 +42,6 @@
             <input asp-for="Author" />
             <span asp-validation-for="Author"></span>
         </div>
-
-
-
-
         <button type="submit">Envoyer</button>
     </form>
 

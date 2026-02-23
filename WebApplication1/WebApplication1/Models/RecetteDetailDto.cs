@@ -5,11 +5,10 @@
 
         public Recette Recette { get; set; }
 
-        public List<Ingredient> Ingredients { get; set; } /* AJOUTER UN DTO INGREDIENT ET QUANTITÉ*/
+        public List<IngredientDto> Ingredients { get; set; } 
 
-        public List<int> Quantity { get; set; }
+        
 
-        /* CONSTRUCTEUR A FAIRE*/
-
+        
     }
 }

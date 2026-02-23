@@ -11,7 +11,13 @@
 </head>
 <body>
     <header>
-        <a class="navbar-brand" asp-area="" asp-controller="Recette" asp-action="GetAllRecette">LOGO A METTRE</a>
+        <div>
+            <a class="navbar-brand" asp-area="" asp-controller="Recette" asp-action="GetAllRecette" >
+
+            <img src="https://img.freepik.com/vecteurs-premium/modele-conception-logo-ecrivain-recette-logo-cuisine_18099-663.jpg?w=2000" class="Image" />
+            </a>
+
+        </div>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 
@@ -26,9 +32,6 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Recette" asp-action="AddRecette">Ajouter recette</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Recette" asp-action="GetAllRecette">Liste des recette</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Ingredient" asp-action="GetAllIngredient">Liste des ingredients</a>
