@@ -1,129 +1,143 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\controllers\\recettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\recettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\modifyrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\modifyrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\addrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\addrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\ingredient\\getallingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ingredient\\getallingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\repository\\recetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\recetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\services\\recetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\recetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\getallrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\getallrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\getallrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\getdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\getdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\getdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\addrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\addrecette.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\interfaces\\irecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\interfaces\\irecetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irecetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\ingredient\\addingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ingredient\\addingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\repository\\recetteingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\recetteingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\views\\accueil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\accueil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\controllers\\accueilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accueilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\controllers\\recettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\recettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\models\\recettedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\models\\recettedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\recettedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\models\\recette_ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\recette_ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\models\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\models\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073944_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\repository\\recetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\recetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\services\\recetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\recetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\recette\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\recette\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\ingredient\\addingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ingredient\\addingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\accueil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\accueil\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\views\\ingredient\\getallingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ingredient\\getallingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\interfaces\\irecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irecetteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\interfaces\\irecetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irecetterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\controllers\\accueilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accueilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\models\\recette_ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\recette_ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073944_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260220073944_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20260220071340_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20260220071208_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073648_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073648_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260220073648_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\vdouc\\desktop\\projetfinal\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073312_initbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\userprf\\desktop\\finalpj\\projetfinal\\webapplication1\\webapplication1\\migrations\\20260220073312_initbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA75B54-73AE-4581-932F-0BC5AD5682B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260220073312_initbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -134,243 +148,277 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RecetteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\RecetteRepository.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\RecetteRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T06:59:05.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-21T00:06:06.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IngredientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\IngredientRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IngredientRepository.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\IngredientRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\IngredientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:41:07.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllIngredient.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-20T23:01:52.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddRecette.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\AddRecette.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\AddRecette.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\AddRecette.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Recette\\AddRecette.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-20T06:41:09.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\Delete.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Recette\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-20T13:33:29.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetDetail.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\GetDetail.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetDetail.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Recette\\GetDetail.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-22T20:29:32.795Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "RecetteIngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteIngredientRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\RecetteIngredientRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteIngredientRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\RecetteIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:19:50.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModifyRecette.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\ModifyRecette.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\ModifyRecette.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\ModifyRecette.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Recette\\ModifyRecette.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T10:29:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T09:03:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T09:03:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecetteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\RecetteRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\RecetteRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\RecetteRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:59:05.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T00:06:06.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IngredientRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Repository\\IngredientRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:41:07.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllIngredient.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ingredient\\GetAllIngredient.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T23:01:52.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRecette.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\AddRecette.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\AddRecette.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\AddRecette.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Recette\\AddRecette.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T06:41:09.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Recette\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T13:33:29.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\GetDetail.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetDetail.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Recette\\GetDetail.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T20:29:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GetAllRecette.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Recette\\GetAllRecette.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-20T06:30:31.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "RecetteController.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\RecetteController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\RecetteController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RecetteController.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\RecetteController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\RecetteController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\RecetteController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T09:29:06.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RecetteService.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\RecetteService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\RecetteService.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\RecetteService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\RecetteService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:30:22.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T09:29:06.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-21T09:36:06.506Z",
-              "EditorCaption": ""
+              "Title": "RecetteService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\RecetteService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\RecetteService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\RecetteService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\RecetteService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:30:22.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvzcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-21T09:36:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "IRecetteService.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IRecetteService.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteService.cs",
               "RelativeToolTip": "WebApplication1\\Interfaces\\IRecetteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:30:15.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:30:15.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "IRecetteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IRecetteRepository.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IRecetteRepository.cs",
               "RelativeToolTip": "WebApplication1\\Interfaces\\IRecetteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:04:16.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:04:16.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "IIngredientService.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IIngredientService.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientService.cs",
               "RelativeToolTip": "WebApplication1\\Interfaces\\IIngredientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T14:23:24.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T14:23:24.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "IngredientService.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\IngredientService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\IngredientService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\IngredientService.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\IngredientService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Services\\IngredientService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\IngredientService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:49:26.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:49:26.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "IIngredientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IIngredientRepository.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Interfaces\\IIngredientRepository.cs",
               "RelativeToolTip": "WebApplication1\\Interfaces\\IIngredientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:07:56.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:07:56.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T07:48:36.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "IngredientController.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\IngredientController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\IngredientController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\IngredientController.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\IngredientController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\IngredientController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\IngredientController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAcwEUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Accueil\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Accueil\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Accueil\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Accueil\\Index.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Accueil\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Accueil\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -390,11 +438,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "AddIngredient.cshtml",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Ingredient\\AddIngredient.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -402,11 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "AccueilController.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\AccueilController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\AccueilController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccueilController.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\AccueilController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Controllers\\AccueilController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\AccueilController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -414,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\DbManager\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\DbManager\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DbManager\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\DbManager\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\DbManager\\AppDbContext.cs",
               "RelativeToolTip": "WebApplication1\\DbManager\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,23 +474,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 10,
               "Title": "Recette.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Recette.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Recette.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T06:40:06.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Ingredient.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -450,11 +498,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 9,
               "Title": "RecetteDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\RecetteDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\RecetteDetailDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\RecetteDetailDto.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\RecetteDetailDto.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\RecetteDetailDto.cs",
               "RelativeToolTip": "WebApplication1\\Models\\RecetteDetailDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -462,11 +510,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Recette_Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette_Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette_Ingredient.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Recette_Ingredient.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette_Ingredient.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Models\\Recette_Ingredient.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Recette_Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,35 +522,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "20260220071208_initdb.cs",
               "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260220071208_initdb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs",
               "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20260220071208_initdb.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071208_initdb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T07:12:09.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "20260220071340_initdb.cs",
               "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260220071340_initdb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs",
               "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20260220071340_initdb.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220071340_initdb.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T07:13:40.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "20260220073648_ini.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073648_ini.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073648_ini.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260220073648_ini.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073648_ini.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073648_ini.cs",
               "RelativeToolTip": "WebApplication1\\Migrations\\20260220073648_ini.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +558,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "20260220073944_db.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073944_db.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073944_db.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260220073944_db.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073944_db.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073944_db.cs",
               "RelativeToolTip": "WebApplication1\\Migrations\\20260220073944_db.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -522,11 +570,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "20260220073312_initbase.cs",
-              "DocumentMoniker": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073312_initbase.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073312_initbase.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260220073312_initbase.cs",
-              "ToolTip": "C:\\Users\\vdouc\\Desktop\\ProjetFinal\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073312_initbase.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\finalPj\\ProjetFinal\\WebApplication1\\WebApplication1\\Migrations\\20260220073312_initbase.cs",
               "RelativeToolTip": "WebApplication1\\Migrations\\20260220073312_initbase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

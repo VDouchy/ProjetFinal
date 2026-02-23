@@ -55,7 +55,7 @@ namespace WebApplication1.Repository
         public Recette ModifyRecette(Recette r)
         {
             Recette recetteAModifier = GetRecetteById(r.Id);
-            _context.Recette.Update(r);
+            _context.Recette.Update(recetteAModifier);
             _context.SaveChanges();
             return r;
         }

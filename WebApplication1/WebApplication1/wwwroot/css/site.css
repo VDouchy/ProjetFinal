@@ -17,9 +17,7 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
-}
+
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
@@ -31,7 +29,30 @@ body {
 }
 
 .card-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+ 
+}
+
+.Each-card {
+    border-color: red;
+    border: solid;
+    border-radius: 20px;
+    border-color: yellowgreen;
+    background-color: yellow
+}
+.Title-align-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Center-and-flex {
+    display: flex;
+    justify-content: center;
+    
+}
+.SizedBox {
+    width: 200px;
+    height: 100px;
 }

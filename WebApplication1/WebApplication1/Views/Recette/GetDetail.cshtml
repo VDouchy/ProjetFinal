@@ -8,24 +8,30 @@
 
 @model Recette
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Recette @Model.Title</title>
-</head>
-<body>
+    <h1 class="Title-align-center">Recette : @Model.Title</h1>
+<p><strong>Recette créee par @Model.Author</strong></p>
 
-    <h1>Recette : @Model.Title</h1>
-    <p>@Model.Description</p>
-    <p>@Model.Instructions</p>
-   
+    <p class="Center-and-flex">@Model.Description</p>
+    <p class="Center-and-flex">@Model.Instructions</p>
+    <a asp-controller="Recette"
+       asp-action="DeleteRecette"
+       
+       class="btn btn-danger"
+       onclick="return confirm('Voulez-vous vraiment supprimer cette recette ?');">
+        Supprimer
+    </a>
+    <a asp-controller="Recette"
+     asp-action="ModifyRecette"
+     asp-route-r=@Model
+     asp-route-id=@Model.Id
+       
+       class="btn btn-warning">
+        Modifier
+    </a>
     
 
 
       
    
 
-</body>
-</html>
+

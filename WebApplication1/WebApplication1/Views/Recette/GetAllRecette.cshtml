@@ -5,49 +5,20 @@
 }
 @model List<Recette>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Afficher recettes</title>
-</head>
-<body>
-    <h2>Liste des recettes</h2>
+    <h1>Liste des recettes</h1>
     <div class="card-container">
     @for (int i = 0; i < Model.Count; i++)
     {
-        <a asp-controller="Recette" asp-action="GetDetail" asp-route-id="@Model[i].Id">
-        <p>Recette n°@(i+1)</p>
-        
-        <ul>
-            
-            <li>Titre: @Model[i].Title</li>
-            <li>Category: @Model[i].Category</li>
-            <li>Description: @Model[i].Description</li>
-            <li>
-        
-                <a asp-controller="Recette"
-                   asp-action="DeleteRecette"
-                   asp-route-id="@Model[i].Id"
-                   class="btn btn-danger"
-                   onclick="return confirm('Voulez-vous vraiment supprimer cette recette ?');">
-                    Supprimer
-                </a>
-            </li>
-         
-            <li>
-                <a asp-controller="Recette"
-                    asp-action="ModifyRecette"
-                    asp-route-id="@Model[i].Id"
-                    class="btn btn-warning">
-                    Modifier
-                </a>
-            </li>
-            
-        </ul> 
+        <div class="Each-card">
+            <a asp-controller="Recette" asp-action="GetDetail" asp-route-id="@Model[i].Id">
+                <p>Recette n°@(i + 1)</p>
+
+                <ul>
+                    <li>Titre: @Model[i].Title</li>
+                    <li>Description: @Model[i].Description</li>
+                </ul>
             </a>
+        </div>
+        
     }
     </div>
-</body>
-</html>

@@ -3,15 +3,23 @@
 *@
 @{
 }
-@model Recette
-<div asp-validation-summary="All" class="text-danger"></div>
+@model Recette;
 
 
-    <a asp-controller="Accueil" asp-action="Index">Retour à l'accueil</a>
+
+<h2>Modification</h2>
+<div>
+    <p>coucou</p>
+    <strong>@Model.Title</strong>
+    <p>@Model.Title</p>
+    <p>@Model.Description</p>
+    <p>@Model.Instructions</p>
+
+
     <form asp-action="AddRecette" method="post">
         <div>
             <label asp-for="Title"></label>
-            <input asp-for="Title"/>
+            <input asp-for="Title" />
             <span asp-validation-for="Title"></span>
         </div>
         <div>
@@ -21,25 +29,32 @@
         </div>
         <div>
             <label asp-for="Description"></label>
-            
-            <input asp-for="Description" class=" SizedBox" />
+            <input asp-for="Description" />
             <span asp-validation-for="Description"></span>
         </div>
         <div>
             <label asp-for="Instructions"></label>
-            <input asp-for="Instructions" class=" SizedBox" />
+            <input asp-for="Instructions" />
             <span asp-validation-for="Instructions"></span>
         </div>
         <div>
             <label asp-for="Author"></label>
-            <input asp-for="Author"/>
+            <input asp-for="Author" />
             <span asp-validation-for="Author"></span>
         </div>
-    
 
-        
-      
+
+
 
         <button type="submit">Envoyer</button>
     </form>
 
+
+
+
+</div>
+
+
+
+
+    

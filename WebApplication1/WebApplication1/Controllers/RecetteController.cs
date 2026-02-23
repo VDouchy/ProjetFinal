@@ -53,10 +53,8 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IActionResult ModifyRecette(int id) 
         {
-            Recette recette = _recetteService.GetRecetteById(id);
-            if (recette == null) return NotFound();
-
-            return View(recette);
+            Recette r = _recetteService.GetRecetteById(id);
+            return View(r);
         }
 
         [HttpPost]
