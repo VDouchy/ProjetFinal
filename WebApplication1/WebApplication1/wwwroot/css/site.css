@@ -69,8 +69,8 @@ html {
 }
 
 .Image{
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 150px;
 }
 
 a{
@@ -81,4 +81,37 @@ a{
 }
 .BackColor {
     background-color: #99cc00;
+}
+.BlackColor{
+    background-color: black;
+}
+
+.NavBarStyle{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    gap: 200px;
+    
+}
+.AccueilImage {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+}
+.AccueilImage {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto; 
+    border: 1px solid #ccc; 
+    overflow: hidden; 
+}
+.AccueilImage img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    display: block;
 }
